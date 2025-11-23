@@ -17,4 +17,4 @@ I'm a software developer who loves creating code for the community.
 - My personal portfolio site
 
 ## How to contact me:
-![My Discord Username](https://img.shields.io/badge/My_Discord_Username-catowner-sudo-blue) 
+![Discord](https://img.shields.io/badge/Discord-catowner--sudo-blue)
