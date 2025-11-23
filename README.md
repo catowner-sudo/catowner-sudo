@@ -16,7 +16,6 @@ I'm a software developer who loves creating code for the community.
 
 ## 🔭 I’m currently working on:
 - Cafetch — a lightweight system info fetcher in Go
-- My personal portfolio site
 
 ## How to contact me:
 ![Discord](https://img.shields.io/badge/Discord-catowner--sudo-blue)
