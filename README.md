@@ -1,4 +1,9 @@
+```console
+root@catowner-sudo:~$ echo "Hello world!"
+```
+
 # Hi, I'm catowner! 👋
+
 I'm a software developer who loves creating code for the community.
 
 ## 🛠 My Tech Stack:
